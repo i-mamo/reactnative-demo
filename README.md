@@ -9,11 +9,11 @@ SQLite
 
 環境
  - node -v 
-// v16.13.2
+ > v16.13.2
 
  - npm -g ls
-// expo-cli@6.0.8
-// npm@8.1.2
+ > expo-cli@6.0.8
+ > npm@8.1.2
 
 
 参考サイト
