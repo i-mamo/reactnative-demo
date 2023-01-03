@@ -1,10 +1,11 @@
 # reactnative-demo
 
-expo
-Xcode(エミュレータ)
-Android Stadio(エミュレータ)
-firebase
-SQLite
+使ったもの
+ - expo
+ - Xcode(エミュレータ)
+ - Android Stadio(エミュレータ)
+ - firebase
+ - SQLite
 
 
 環境
