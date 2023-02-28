@@ -1,5 +1,7 @@
 node_modules/
-.expo/
+.expo
+.env
+package-lock.json
 dist/
 npm-debug.*
 *.jks
